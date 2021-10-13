@@ -33,5 +33,5 @@ My name is Yaseen and I'm a Software Developer/DevOps engineer. I'm from Tenali,
 ![Alacritty](https://img.shields.io/badge/-alacritty-000?&logo=alacritty&logoColor=F90)
 ![TMUX](https://img.shields.io/badge/-tmux-000?&logo=tmux&logoColor=F90)
 
-[![Yaseen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaseensec&hide=stars,contribs)](https://yaseenins.com)
+[![Yaseen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaseensec&hide=contribs)](https://yaseenins.com)
 
