@@ -4,11 +4,11 @@
 
 My name is Yaseen and I'm a Software Developer/DevOps engineer. I'm from Tenali, living in Hyderabad and previously worked at Kanagala Technologies Pvt Ltd. You can find me on [![LinkedIn][1.1]][1].
 
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[1]: https://www.linkedin.com/in/heinz-martin/
+[1.1]: https://raw.githubusercontent.com/yaseensec/yaseensec/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1]: https://www.linkedin.com/in/yaseenins/
 
 
-Technologies
+### Tools & Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
@@ -17,6 +17,7 @@ Technologies
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=F90)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&logoColor=F90)
+![Terraform](https://img.shields.io/badge/-Terraform?&logo=Terraform&logoColor=F90)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible&logoColor=F90)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=nginx&logoColor=F90)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=F90)
@@ -31,5 +32,5 @@ Technologies
 ![Alacritty](https://img.shields.io/badge/-alacritty-000?&logo=alacritty&logoColor=F90)
 ![TMUX](https://img.shields.io/badge/-tmux-000?&logo=tmux&logoColor=F90)
 
-[![Yaseen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaseensec)](https://github.com/yaseensec/github-readme-stats)
+[![Yaseen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaseensec&hide=stars,contribs1)](https://yaseenins.com)
 
