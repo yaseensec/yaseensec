@@ -5,7 +5,7 @@
 My name is Yaseen and I'm a Software Developer/DevOps engineer. I'm from Tenali, living in Hyderabad and previously worked at Kanagala Technologies Pvt Ltd. You can find me on [![LinkedIn][1.1]][1].
 
 <!-- [1.1]: https://raw.githubusercontent.com/yaseensec/yaseensec/master/linkedin-3-16.png (LinkedIn icon without padding) -->
-[1.1]: https://img.shields.io/badge/-Linkedin-000&logo=linkedin&logoColor=F90
+[1.1]: (https://img.shields.io/badge/-Linkedin-000&logo=linkedin&logoColor=F90)
 [1]: https://www.linkedin.com/in/yaseenins/
 
 
