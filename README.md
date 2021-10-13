@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/yaseensec/yaseensec/master/wave.gif" width="30px">
 
-My name is Yaseen and I'm a Software Developer/DevOps engineer. I'm from Tenali, living in Hyderabad and previously worked at Kanagala Technologies Pvt Ltd. You can find me on [![LinkedIn][1.1]][1].
+My name is Yaseen and I'm a Software Developer/DevOps engineer. I'm from Tenali, living in Hyderabad and previously worked at Kanagala Technologies Pvt Ltd. You can find me on [![LinkedIn](https://img.shields.io/badge/-linkedin-000?logo=linkedin&logoColor=F90)](https://www.linkedin.com/in/yaseenins/).
 
 <!-- [1.1]: https://raw.githubusercontent.com/yaseensec/yaseensec/master/linkedin-3-16.png (LinkedIn icon without padding) -->
 [1.1]: (https://img.shields.io/badge/-Linkedin-000&logo=linkedin&logoColor=F90)
@@ -33,5 +33,5 @@ My name is Yaseen and I'm a Software Developer/DevOps engineer. I'm from Tenali,
 ![Alacritty](https://img.shields.io/badge/-alacritty-000?&logo=alacritty&logoColor=F90)
 ![TMUX](https://img.shields.io/badge/-tmux-000?&logo=tmux&logoColor=F90)
 
-[![Yaseen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaseensec&hide=stars,contribs1)](https://yaseenins.com)
+[![Yaseen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaseensec&hide=stars,contribs)](https://yaseenins.com)
 
