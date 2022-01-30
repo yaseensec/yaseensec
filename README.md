@@ -2,7 +2,7 @@
 
 # Hey, people <img src="https://raw.githubusercontent.com/yaseensec/yaseensec/master/v.gif" width="80px">
 
-My name is Yaseen and I'm a Software Developer/DevOps engineer. I'm from Tenali, living in Hyderabad and previously worked at Kanagala Technologies Pvt Ltd. You can find me on [![LinkedIn](https://img.shields.io/badge/-linkedin-000?logo=linkedin&logoColor=F90)](https://www.linkedin.com/in/yaseenins/).
+My name is Yaseen and I'm a Software Developer/DevOps engineer. I'm from Tenali, living in Hyderabad and previously worked at Kanagala Technologies Pvt Ltd. You can find me on [![LinkedIn](https://img.shields.io/badge/-linkedin-000?logo=linkedin&logoColor=F90)](https://www.linkedin.com/in/yaseenins/)
 
 ### Tools & Technologies
 
