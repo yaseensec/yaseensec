@@ -1,8 +1,11 @@
 [![](https://raw.githubusercontent.com/yaseensec/yaseensec/master/profile.gif)](https://www.yaseenins.com/)
 
-Hi there, I'm Yaseen <img src="https://raw.githubusercontent.com/yaseensec/yaseensec/master/wave.gif" width="80px">
+Hi there, I'm Yaseen <img src="https://raw.githubusercontent.com/yaseensec/yaseensec/master/wave.gif" width="20px">
+
 I'm an AWS DevOps Engineer from Tenali, currently living in Hyderabad, and working at Brillio Technologies Pvt Ltd.
+
 You can find me on [![LinkedIn](https://img.shields.io/badge/-linkedin-000?logo=linkedin&logoColor=F90)](https://www.linkedin.com/in/yaseenins/)
+
 
 ### Tools & Technologies
 
