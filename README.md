@@ -26,7 +26,7 @@ My name is Yaseen and I'm a Software Developer/DevOps Engineer. I'm from Tenali,
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript&logoColor=F90)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=F90)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-000?&logo=neovim&logoColor=F90)
-![VSCodium](https://img.shields.io/badge/-vscodium-000?&logo=visual%20studio%20code&logoColor=F90)
+![VSCodium](https://img.shields.io/badge/-vscodium-000?&logo=vscodium&logoColor=F90)
 ![Libre Office](https://img.shields.io/badge/-LibreOffice-000?&logo=LibreOffice&logoColor=F90)
 ![Alacritty](https://img.shields.io/badge/-Alacritty-000?&logo=alacritty&logoColor=F90)
 ![TMUX](https://img.shields.io/badge/-Tmux-000?&logo=tmux&logoColor=F90)
