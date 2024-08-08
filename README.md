@@ -6,7 +6,7 @@ My name is Yaseen and I'm a Software Developer/DevOps Engineer. I'm from Tenali,
 
 ### Tools & Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices&logoColor=F90)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=F90)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F90)
 ![Maven](https://img.shields.io/badge/-Maven-000?&logo=Apache-Maven&logoColor=F90)
@@ -26,7 +26,7 @@ My name is Yaseen and I'm a Software Developer/DevOps Engineer. I'm from Tenali,
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript&logoColor=F90)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=F90)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-000?&logo=neovim&logoColor=F90)
-![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-000?&logo=visual%20studio%20code&logoColor=F90)
+![VSCodium](https://img.shields.io/badge/-vscodium-000?&logo=visual%20studio%20code&logoColor=F90)
 ![Libre Office](https://img.shields.io/badge/-LibreOffice-000?&logo=LibreOffice&logoColor=F90)
 ![Alacritty](https://img.shields.io/badge/-Alacritty-000?&logo=alacritty&logoColor=F90)
 ![TMUX](https://img.shields.io/badge/-Tmux-000?&logo=tmux&logoColor=F90)
